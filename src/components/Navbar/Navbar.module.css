@@ -1,0 +1,9 @@
+.nav {
+    grid-area: n;
+    background-color: #527bff;
+    color: cornsilk;
+    font-weight: 600;
+    }
+.item {
+   color: lightblue;  
+}
