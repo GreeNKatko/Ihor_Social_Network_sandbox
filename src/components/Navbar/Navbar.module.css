@@ -2,8 +2,33 @@
     grid-area: n;
     background-color: #527bff;
     color: cornsilk;
+    font-size: large;
     font-weight: 600;
-    }
-.item {
-   color: lightblue;  
+    padding: 30px;
+    line-height: 140%;
 }
+.item {
+   color: #dddce6;  
+   
+}
+.item a {
+    color:#dddce6;
+    text-decoration: none;
+    
+}
+.item a.active {
+    color: #f3f3c5;
+    
+}
+.settings a {
+    color: #dddce6;
+    text-decoration: none;
+    line-height: 300%;
+
+}
+.settings a.active {
+    color: #f3f3c5;
+    
+}
+
+

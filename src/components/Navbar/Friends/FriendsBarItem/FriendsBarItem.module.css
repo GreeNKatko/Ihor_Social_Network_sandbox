@@ -1,0 +1,14 @@
+.frnd{ 
+    float: left;
+    width: 30%;
+    font-size: 15px;
+    line-height: 100%;
+
+}
+
+.frnd img {
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    margin-left: -4px;
+}
